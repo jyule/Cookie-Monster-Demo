@@ -1,0 +1,8 @@
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonster.Form1.resources
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonsterApp.csproj.GenerateResource.Cache
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonster.Properties.Resources.resources
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\bin\Debug\CookieMonster.exe
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\bin\Debug\CookieMonster.pdb
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonster.exe
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonster.pdb
+D:\John Yule\CookieMonsterDemo\CookieMonsterApp\obj\Debug\CookieMonsterApp.csprojResolveAssemblyReference.cache
